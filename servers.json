@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Autcraft",
+		"ip": "mc.autcraft.com",
 		"type": "PC"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "Autcraft Obsidian",
+		"ip": "obsidian.autcraft.,com",
 		"type": "PC"
 	}
 ]
